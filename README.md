@@ -46,4 +46,25 @@ The importance of identifying design properties of a mock-up design is to have t
 
 // - - -  END - - - //
 
+// - - - Project Roles - - - //
+
+1. Project Manager
+2. Front-end developer
+3. Back-end developer
+4. Designer
+5. QA/Tester
+6. DevOps Engineer
+7. Product Owner
+8. Scrum Master
+
+// - - - END - - - //
+
+// - - - UI Components - - - //
+
+Navbar
+Property Card
+Footer
+
+// - - - END - - - //
+
 
